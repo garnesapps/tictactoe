@@ -1,6 +1,6 @@
 ## Welcome to TicTacToe Sayash
 
-This project has been made by me and I would like to refine it in due course of time
+This project has been made by me and I would like to refine it in due course of time.
 
 ### TicTacToe working
 
