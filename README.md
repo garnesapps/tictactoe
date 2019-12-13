@@ -12,3 +12,4 @@ This game works on a simple one dimesional array based alogrithm so as to keep t
 6|7|8
 
 This is layout of game
+```
