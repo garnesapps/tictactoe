@@ -60,7 +60,7 @@ int main()
         if(input<10&&input>0){a[input-1]=x;}
         else{cout<<"enter valid number"<<endl;}
         count++;
-        win=checkwin(a);
+        win=checkwin(a);        //check if win==true
         if(win==true){cout<<"player "<<playernum<<" wins"<<endl;}
     }
     
